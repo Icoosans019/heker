@@ -36,7 +36,7 @@ except ImportError:
 
 	os.system("pip2 install requests")
 
-	os.system("python2 crack.py")
+	os.system("python2 heker.py")
 
 from requests.exceptions import ConnectionError
 
